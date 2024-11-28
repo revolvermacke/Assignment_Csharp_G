@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Csharp", "Assignment_Csharp\Assignment_Csharp.csproj", "{6F0ABFFD-BEE9-40F7-825F-1B4379961523}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApp_Assignment_Csharp", "Assignment_Csharp\MainApp_Assignment_Csharp.csproj", "{6F0ABFFD-BEE9-40F7-825F-1B4379961523}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{795C8768-4873-4553-9039-889156DBAEAF}"
 EndProject
