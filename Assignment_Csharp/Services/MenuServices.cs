@@ -8,7 +8,7 @@ namespace Assignment_Csharp.Services;
 public class MenuServices
 {
 
-    private readonly ContactService _contactService = new ContactService();
+    private readonly ContactService _contactService = new();
 
     public void Run()
     {
